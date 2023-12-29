@@ -13,7 +13,7 @@
 
 ## Usage
 
-Inject the contents of `rosepine_ollamawebui.css` into your Ollama WebUI instance using a browser extension like Stylus.
+Inject the contents of `rosepine_ollamawebui.css` into your [Ollama WebUI](https://github.com/ollama-webui/ollama-webui) instance using a browser extension like Stylus.
 
 ## Gallery
 
