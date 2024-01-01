@@ -60,6 +60,14 @@
     background-color: rgb(57 53 82 / var(--tw-bg-opacity));
 }
 
+.text-xs.text-gray-700.uppercase.bg-gray-50.dark\:bg-gray-700.dark\:text-gray-400 {
+    background-color: #403d52;
+}
+
+.scrollbar-hidden.relative.overflow-x-auto.whitespace-nowrap.svelte-3g4avz {
+    border-radius: 16px 16px 0 0;
+}
+
 .base.enter.svelte-ug60r4 {
     background-color: #393552;
 }
