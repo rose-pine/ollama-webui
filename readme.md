@@ -13,7 +13,9 @@
 
 ## Usage
 
-Inject the contents of `rosepine_ollamawebui.css` into your [Ollama WebUI](https://github.com/ollama-webui/ollama-webui) instance using a browser extension like Stylus.
+1. Ensure you're using a build from at least January 2, 2024
+2. Click on the gear icon for settings
+3. Select "Rosé Pine" or "Rosé Pine Dawn" from the theme selection dropdown
 
 ## Gallery
 
