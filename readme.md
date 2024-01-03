@@ -21,6 +21,8 @@
 
 ![rose_pine_ollama](https://github.com/ThatOneCalculator/ollama-webui/assets/44733677/ac0eb906-41d5-4f7c-93b5-c23889d91693)
 
+![rose_pine_dawn ollama](https://github.com/rose-pine/ollama-webui/assets/44733677/ac7a4b11-c84d-40a8-a84e-6c3a6e4d1d5b)
+
 
 ## Thanks to
 
