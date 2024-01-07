@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Ensure you're using a build from at least [cb93038abffd](https://github.com/ollama-webui/ollama-webui/commit/cb93038abffd002e55e8c61449688e649e2a2fd3) (from January 2, 2024 or later)
+1. Ensure you're using a build from at least v1.0.0-alpha.42 (from January 2, 2024 or later). You can find your version number in Settings > About.
 2. Click on the gear icon for settings
 3. Select "Rosé Pine" or "Rosé Pine Dawn" from the theme selection dropdown
 
